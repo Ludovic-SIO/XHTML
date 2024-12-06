@@ -1,0 +1,17 @@
+.bloc-fixe {
+    position:fixed;
+    border:solid 1px;
+    width:100px;
+    top:10px;
+    bottom:10px;
+}
+
+.bloc-variable{
+    position:fixed;
+    border:solid 1px;
+    top:10px;
+    left: 120px;
+    bottom: 10px;
+    right:10px;
+}
+

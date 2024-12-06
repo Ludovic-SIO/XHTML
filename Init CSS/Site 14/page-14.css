@@ -1,0 +1,12 @@
+.bloc-gauche, .bloc-droite{
+    position: absolute;
+    top:0px;
+    width:60px;
+    border:1px solid orange;
+}
+
+.bloc-gauche {left:0px;}
+.bloc-droite {right:0px;}
+
+.bloc-gauche a {color:green; left:0px;}
+.bloc-droite a {color:red; right:0px;}
